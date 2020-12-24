@@ -1,0 +1,15 @@
+Scenario: you are a university database administrator and you need to create an application to manage student
+enrollments and payments
+
+This application should have the following:
+ • Ask the user how many students should be added
+ • Prompt the user to the name and year of each student
+ • Automatically create a 5-digit ID for each student, with the first digit being their year
+ • Students can enroll in these courses: History 101, Math 101, English 101, Chemistry 101, Computer Science 101
+ • Each course costs $600 to enroll
+ • You should be able to view and pay each student's tuition
+ • You can view the status of each student, including: name, ID, courses, tuition balance
+
+ For the future:
+  • Add a save feature
+  • Create GUI interface
